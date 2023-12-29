@@ -1,4 +1,4 @@
-import 'package:final_project/main.dart';
+
 import 'package:flutter/material.dart';
 
 class Meal extends StatelessWidget {
